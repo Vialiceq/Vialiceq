@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🌱 I’m currently exploring  Go & AI ~
+ 🌱 I’m currently exploring  Javascript/Typescript/Web3 &Go & AI and etc. ~
  
  
  ⚡ Fun fact: I like Algorithm though it is hard ^^  I love Docker and  JavaScript ~ 
